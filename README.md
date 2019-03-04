@@ -34,4 +34,5 @@
 
 链接使用：www.baidu.com
 
-图像：![](C:\Users\Public\Pictures\Sample Pictures\Desert.jpg)
+[^]: zh
+
