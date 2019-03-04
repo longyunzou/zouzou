@@ -81,8 +81,10 @@
 > > > >
 > > > > > 再缩
 
-插入链接
+插入链接方式
+
+[文本文字]（链接地址）
 
 [百度链接](https://www.cnblogs.com/shiy/p/6526868.html)
 
-[百度](http://baidu.com)
+[百度](baidu.com)
