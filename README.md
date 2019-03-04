@@ -83,6 +83,6 @@
 
 插入链接
 
-[百度链接](www.babidu.com)
+[百度链接](http://www.babidu.com)
 
 [百度](http://baidu.com)
