@@ -16,7 +16,7 @@
 | :------: | :------: | :--------: |
 | 数据备份 | 报文搬运 | ES索引删除 |
 | 数据备份 | 报文搬运 | ES索引删除 |
-| 数据备份 | 报文搬运 |  报文搬运  |
+| 数据备份 | 报文搬运 | ES索引删除 |
 
 ### 详细描述
 
@@ -59,7 +59,7 @@
 
 > 二级圆点、三级圆点：多加一个Tab，即第二行一个Tab，第三行两个Tab
 >
-> ```
+> ```一
 > * 列表一
 >     * 列表二
 >         *列表三
@@ -83,8 +83,30 @@
 
 插入链接方式
 
-[文本文字]（链接地址）
+[文本文字]（http://链接地址）
 
-[百度链接](https://www.cnblogs.com/shiy/p/6526868.html)
+[readme.md编写教程](https://blog.csdn.net/qq_31796651/article/details/80803599)
 
 [百度](http://baidu.com)
+
+
+
+方框显示：
+
+> ```
+> 输入 > ```   这样的符号可以出现一个文本框，文本框里的符号不会被编译。
+> ```
+>
+> 
+
+2、代码  
+`<hello world>`  
+3、代码块高亮  
+
+```
+`@Override`
+protected void onDestroy() {
+    EventBus.getDefault().unregister(this);
+    super.onDestroy();
+}
+```
