@@ -179,13 +179,13 @@ function validateForm()
 ![图片名称](链接地址)
 ```
 
-#####示例：
+##### 示例：
 
 ```
 ![百度](https://www.baidu.com/img/bd_logo1.png)
 ```
 
-#####效果：
+##### 效果：
 
 ​	 ![图片名称](https://www.baidu.com/img/bd_logo1.png) 
 
