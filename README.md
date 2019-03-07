@@ -194,31 +194,11 @@ function validateForm()
 
 #### 字体：
 
-<font color=‘#DC143C’>shini</font>
-
-<font color='red'>text</font> 
-
-1. <font face="黑体">我是黑体字</font>
-
-2. 
-
-   <font face="微软雅黑">我是微软雅黑</font>
-
-3. 
-
-   <font face="STCAIYUN">我是华文彩云</font>
-
-4. 
-
-   <font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
-
-5. 
-
-   <font color=#00ffff size=72>color=#00ffff</font>
-
-6. 
-
-   <font color=gray size=72>color=gray</font>
+```
+<font face="STCAIYUN">我是华文彩云</font>
+<font color=gray size=5>color=gray</font>
+<font color=#0099ff size=5 face="黑体">color=#0099ff size=5 face="黑体"</font>
+```
 
 ```diff
 + 你再伽马路口没打开
@@ -227,3 +207,8 @@ function validateForm()
 
 
 
+<font face="STCAIYUN">我是华文彩云</font>
+
+<font color=gray size=5>color=gray</font>
+
+<font color=#0099ff size=5 face="黑体">color=#0099ff size=5 face="黑体"</font>
