@@ -195,3 +195,25 @@ function validateForm()
 #### 字体：
 
 <font color=#DC143C>shini</font>
+
+1. <font face="黑体">我是黑体字</font>
+
+2. 
+
+   <font face="微软雅黑">我是微软雅黑</font>
+
+3. 
+
+   <font face="STCAIYUN">我是华文彩云</font>
+
+4. 
+
+   <font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
+
+5. 
+
+   <font color=#00ffff size=72>color=#00ffff</font>
+
+6. 
+
+   <font color=gray size=72>color=gray</font>
