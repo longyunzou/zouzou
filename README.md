@@ -205,20 +205,8 @@ function validateForm()
 - 点十几分不打算交就
 ```
 
+<font color=#FF0000>我是红色字体</font> 
 
+<font color='#FF0000'>我是红色字体</font> 
 
-<font color= "STCAIYUN" > 我是华文彩云 </font>
-
-<font color= "red" > 我是华文彩云 </font>
-
-<font color= 'red'> 我是华文彩云 </font>
-
-```
-<table><tr><td bgcolor=#FF4500>这里的背景色是：OrangeRed，  十六进制颜色值：#FF4500， rgb(255, 69, 0)</td></tr></table>
-```
-
-<table><tr><td bgcolor=#FF4500>这里的背景色是：OrangeRed，  十六进制颜色值：#FF4500， rgb(255, 69, 0)</td></tr></table>
-
-
-
-<font face="黑体">我是黑体字</font> <font face="微软雅黑">我是微软雅黑</font> <font face="STCAIYUN">我是华文彩云</font> <font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font> <font color=#00ffff size=72>color=#00ffff</font> <font color=gray size=72>color=gray</font> 
+<font color="#FF0000">我是红色字体</font> 
