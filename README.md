@@ -194,7 +194,9 @@ function validateForm()
 
 #### 字体：
 
-<font color=#DC143C>shini</font>
+<font color=‘#DC143C’>shini</font>
+
+<font color='red'>text</font> 
 
 1. <font face="黑体">我是黑体字</font>
 
@@ -217,3 +219,11 @@ function validateForm()
 6. 
 
    <font color=gray size=72>color=gray</font>
+
+```diff
++ 你再伽马路口没打开
+- 点十几分不打算交就
+```
+
+
+
