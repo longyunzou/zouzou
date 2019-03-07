@@ -194,4 +194,4 @@ function validateForm()
 
 #### 字体：
 
-<font color=DC143C>shini</font>
+<font color=#DC143C>shini</font>
