@@ -210,3 +210,15 @@ function validateForm()
 <font color='#FF0000'>我是红色字体</font> 
 
 <font color="#FF0000">我是红色字体</font> 
+
+
+
+## 表情
+
+Github的Markdown语法支持添加emoji表情，输入不同的符号码（两个冒号包围的字符）可以显示出不同的表情。
+
+比如`:blush:`
+
+:blush:
+
+:happy:
